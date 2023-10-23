@@ -11,7 +11,7 @@ run-name: >-
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   # https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow
   workflow_dispatch:
     inputs:
