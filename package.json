@@ -1,6 +1,6 @@
 {
-  "name": "@jkostov/sanity-plugin-color-picker-v3",
-  "version": "1.0.0",
+  "name": "sanity-plugin-color-picker-v3",
+  "version": "1.0.1",
   "description": "",
   "keywords": [
     "sanity",
@@ -39,8 +39,6 @@
   "dependencies": {
     "@sanity/incompatible-plugin": "^1.0.4",
     "react-color": "^2.19.3",
-    "react-eyedrop": "^5.4.2",
-    "react-icons": "^4.11.0",
     "rgb2hex": "^0.2.5"
   },
   "devDependencies": {
