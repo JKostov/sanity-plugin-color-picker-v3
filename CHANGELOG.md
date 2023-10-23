@@ -5,6 +5,12 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2](https://github.com/JKostov/sanity-plugin-color-picker-v3/compare/v1.0.1...v1.0.2) (2023-10-23)
+
+### Bug Fixes
+
+- Update readme ([64d1026](https://github.com/JKostov/sanity-plugin-color-picker-v3/commit/64d10260b753d3b16c8679b4e7945fd6a35b134d))
+
 ## [1.0.1](https://github.com/JKostov/sanity-plugin-color-picker-v3/compare/v1.0.0...v1.0.1) (2023-10-23)
 
 ### Bug Fixes
