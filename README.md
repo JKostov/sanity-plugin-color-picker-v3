@@ -1,4 +1,5 @@
-# sanity-plugin-color-picker-v3
+# Sanity color picker plugin v3 &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JKostov/sanity-plugin-color-picker-v3/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/sanity-plugin-color-picker-v3.svg?style=flat)](https://www.npmjs.com/package/sanity-plugin-color-picker-v3) ![Build](https://github.com/JKostov/sanity-plugin-color-picker-v3/actions/workflows/main.yml/badge.svg)
+
 
 > This is a **Sanity Studio v3** plugin.
 
