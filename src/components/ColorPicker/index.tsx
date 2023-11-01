@@ -31,6 +31,12 @@ const PickerStyles = styled.div`
       padding-bottom: 10px;
     }
   }
+
+  .chrome-picker {
+    input {
+      background-color: white;
+    }
+  }
 `
 
 const ColorPreview = styled.div`
